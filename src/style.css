@@ -26,6 +26,7 @@ h3 {
 }
 .image-container {
    display: flex;
+   box-shadow: 12px 10px 10px #ababab;
    margin: 20px auto;
 }
 img {
